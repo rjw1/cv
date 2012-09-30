@@ -10,7 +10,7 @@
 
 ## Employment History ##
 
-### October 2010 - Present: Systems Architect for TagMan 
+### October 2010 - Present: Systems Architect for [TagMan][]
 
 
 ### March 2008 – October 2010: Senior Systems Administrator for Ominor
@@ -59,7 +59,7 @@ As well as projects such as these, I was part of the on-call rota providing
 support for our legacy systems, including our IBM SAN and several large
 MySQL databases.
 
-### August 2002 - December 2005: Senior Systems Administrator for Glu Mobile
+### August 2002 - December 2005: Senior Systems Administrator for [Glu Mobile][]
 
 While at Glu Mobile I installed and  maintained  over  twenty  internal  and
 external systems which provided numerous services.  My  main  duty  was  the
@@ -73,7 +73,7 @@ and initiated the process of migrating to Veritas NetBackup 6.0 with  a  Sun
 L100.  For most of my time  at  Glu  I  was  also  responsible  for  desktop
 support.
 
-### August 2000 - June 2002: Systems Administrator for Profero
+### August 2000 - June 2002: Systems Administrator for [Profero][]
 
 At Profero I was responsible for the administration of  several  Intel-based
 machines running FreeBSD, OpenBSD and Suse Linux.  These  machines  provided
@@ -82,7 +82,7 @@ also administered  the  machines  that  Profero's  ad  servers  ran  on.  In
 conjunction with this I set up and maintained a firewall  (StoneGate)  which
 provided load balancing and clustering.
 
-### June 2000 - July 2000: Fixed-term contract to provide support and systems administration for Sciteb
+### June 2000 - July 2000: Fixed-term contract to provide support and systems administration for [Sciteb][]
 
 While contracting for Sciteb I installed a number of desktops (Linux and
 Windows) and set up several services on their Linux server.
@@ -93,3 +93,9 @@ I joined Pepper Head Design as an HTML coder and progressed to become a  PHP
 and JSP developer leading a team of two other  developers.  I  also  liaised
 with our outsourced Java developers, and  was  responsible  for  support  of
 desktops and servers running a combination of Linux, OS/2 and Windows.
+
+[sciteb]: http://www.sciteb.com "Sciteb"
+[profero]: http://www.profero.com "Profero"
+[tagman]: http://eu.tagman.com "TagMan"
+[glu mobile]: http://www.glu.com "Glu Mobile"
+
