@@ -1,7 +1,3 @@
-Title: Robert Walker's CV
-Author: bob walker
-Format: complete
-
 ## Details: ##
 
 Full name: Robert Walker
