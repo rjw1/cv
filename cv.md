@@ -10,11 +10,10 @@ Address: 19 Clarendon Road, Croydonm CR0 3SJ
 
 ## Employment History ##
 
-### October 2010 - Present ### 
-#### Systems Architect for TagMan ####
+### October 2010 - Present: Systems Architect for TagMan 
 
-March 2008 – October 2010
-Senior Systems Administrator for Ominor
+
+### March 2008 – October 2010: Senior Systems Administrator for Ominor
 
 At Ominor I set up and maintained 30+ servers for a range of e-commerce
 websites developed in PHP and Ruby on Rails, spread across two data centres
@@ -29,15 +28,13 @@ the continuous integration servers, and performed deploys as and when they
 were signed off by the clients.
 
 
-January 2008 – March 2008
-Contract Systems Administrator for Fotango
+### January 2008 – March 2008: Contract Systems Administrator for Fotango
 
 During the windup of Fotango, I worked as a contractor providing out-of-
 hours cover and daytime support while the Fotango systems were transitioned
 to their new provider.
 
-January 2006 – December 2007
-Senior Systems Administrator for Fotango
+### January 2006 – December 2007: Senior Systems Administrator for Fotango
 
 At Fotango I was a member of a five-person team providing support for about
 200 RedHat and Debian machines in our production, staging, development and
@@ -62,8 +59,7 @@ As well as projects such as these, I was part of the on-call rota providing
 support for our legacy systems, including our IBM SAN and several large
 MySQL databases.
 
-August 2002 - December 2005
-Senior Systems Administrator for Glu Mobile
+### August 2002 - December 2005: Senior Systems Administrator for Glu Mobile
 
 While at Glu Mobile I installed and  maintained  over  twenty  internal  and
 external systems which provided numerous services.  My  main  duty  was  the
@@ -77,8 +73,7 @@ and initiated the process of migrating to Veritas NetBackup 6.0 with  a  Sun
 L100.  For most of my time  at  Glu  I  was  also  responsible  for  desktop
 support.
 
-August 2000 - June 2002
-Systems Administrator for Profero
+### August 2000 - June 2002: Systems Administrator for Profero
 
 At Profero I was responsible for the administration of  several  Intel-based
 machines running FreeBSD, OpenBSD and Suse Linux.  These  machines  provided
@@ -87,15 +82,12 @@ also administered  the  machines  that  Profero's  ad  servers  ran  on.  In
 conjunction with this I set up and maintained a firewall  (StoneGate)  which
 provided load balancing and clustering.
 
-June 2000 - July 2000
-Fixed-term contract to provide support and systems administration for
-Sciteb
+### June 2000 - July 2000: Fixed-term contract to provide support and systems administration for Sciteb
 
 While contracting for Sciteb I installed a number of desktops (Linux and
 Windows) and set up several services on their Linux server.
 
-August 1999 - June 2000
-Systems Administrator and Software Developer for Pepper Head Design
+### August 1999 - June 2000: Systems Administrator and Software Developer for Pepper Head Design
 
 I joined Pepper Head Design as an HTML coder and progressed to become a  PHP
 and JSP developer leading a team of two other  developers.  I  also  liaised
