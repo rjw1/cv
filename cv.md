@@ -1,48 +1,20 @@
 
-Details:
+== Details: ==
 
 Full name: Robert Walker
 Date of birth: 22 October 1977
 Nationality: British
 E-mail: bob@randomness.org.uk
 Phone: 07810 542 241
-Address: 110 Lockwood Square, London, SE16 2HX
+Address: 19 Clarendon Road, Croydonm CR0 3SJ
 
-Core Skills:
 
-Installation and support of operating systems: Solaris (8, 9, 10; sparc and
-x86), Linux (Red Hat, Fedora, Debian, Suse, Gentoo), OpenBSD, FreeBSD.
-Installation and support of services:
-DNS: BIND, Tinydns.
-SMTP: Exim with SpamAssassin and virus checking (Sophos and ClamAV), qmail,
-Mailman.
-IMAP: UoW imapd, Dovecot.
-POP3: UoW pop3d, Qpopper.
-Databases: MySQL, PostgreSQL, SQLite.
-HTTP: Apache (1 and 2) with PHP, mod_perl, mod_rewrite and mod_proxy,
-Jboss, Jetty, Tomcat, Lighttpd, Mongrel.
-Other: Daemontools, Samba, Subversion, Nagios.
-Installation, configuration and use of Request Tracker, a ticketing and
-workflow system.
-Use of several packaging systems including SRV4, rpm and deb.
-Shell scripting with sh and bash.
-Installation of Perl modules from CPAN.
-Basic IBM SAN management.
-Virtualization using Xen and VMware.
-Automated installation and configuration of Debian using FAI and Puppet.
+== Employment History: ==
 
-Hardware Used:
+October 2010 - Present 
+Systems Architect for TagMan
 
-Sun: v100, Blade 100, netra T1, netra X1, 280R, v240, v210, v20z, SunStor
-3310, SunStor L8, SunStor L100.
-IBM: Blade Centre, Blades, x345, SAN.
-Cyclades: T2000, Onsite 881.
-Cisco : 2621XM, 2821, ASA 5510.
-Dell: 2950, 1950, 1850.
-
-Employment History:
-
-March 2008 – Present
+March 2008 – October 2010
 Senior Systems Administrator for Ominor
 
 At Ominor I set up and maintained 30+ servers for a range of e-commerce
@@ -56,9 +28,6 @@ Throughout my time at Ominor I worked closely with the developers as part
 of a team following an Agile methodology. As part of this I helped maintain
 the continuous integration servers, and performed deploys as and when they
 were signed off by the clients.
-
-
-
 
 
 January 2008 – March 2008
