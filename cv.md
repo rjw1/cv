@@ -1,5 +1,8 @@
+Title: Robert Walker's CV
+Author: bob walker
+Format: complete
 
-== Details: ==
+## Details: ##
 
 Full name: Robert Walker
 Date of birth: 22 October 1977
@@ -9,7 +12,7 @@ Phone: 07810 542 241
 Address: 19 Clarendon Road, Croydonm CR0 3SJ
 
 
-== Employment History: ==
+## Employment History: ##
 
 October 2010 - Present 
 Systems Architect for TagMan
