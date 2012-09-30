@@ -1,11 +1,11 @@
 ## Details ##
 
-Full name: Robert Walker
-Date of birth: 22 October 1977
-Nationality: British
-E-mail: bob@randomness.org.uk
-Phone: 07810 542 241
-Address: 19 Clarendon Road, Croydonm CR0 3SJ
+* Full name: Robert Walker
+* Date of birth: 22 October 1977
+* Nationality: British
+* E-mail: bob@randomness.org.uk
+* Phone: 07810 542 241
+* Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
 
 ## Employment History ##
