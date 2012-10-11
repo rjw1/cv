@@ -10,7 +10,7 @@
 
 ## Employment History ##
 
-### October 2010 - Present: Systems Architect for [TagMan][]
+### October 2010 – Present: Systems Architect for [TagMan][]
 
 
 ### March 2008 – October 2010: Senior Systems Administrator for Ominor
@@ -30,9 +30,9 @@ were signed off by the clients.
 
 ### January 2008 – March 2008: Contract Systems Administrator for Fotango
 
-During the windup of Fotango, I worked as a contractor providing out-of-
-hours cover and daytime support while the Fotango systems were transitioned
-to their new provider.
+During the windup of Fotango, I worked as a contractor providing out-of-hours
+cover and daytime support while the Fotango systems were transitioned to
+their new provider.
 
 ### January 2006 – December 2007: Senior Systems Administrator for Fotango
 
