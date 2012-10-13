@@ -7,6 +7,14 @@
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
+## Skills ##
+
+* Operating Systems: Linux (Ubuntu, Debian, Red Hat), Solaris, FreeBSD, OpenBSD, OS/2
+* Configuration Management: Chef, Puppet, CFEngine2
+* Version Control: Git, SVN, CVS, RCS
+* Monitoring and Metrics: Nagios, Icinga, Graphite, Ganglia, Munin, StatsD, Diamond
+* Shell Scripting: bash
+* Packaging: deb, RPM, SRV4
 
 ## Employment History ##
 
@@ -51,7 +59,7 @@ organized as Xen guest domains spread across a cluster of machines.
 
 I was also responsible, along with a co-worker, for investigating
 alternative technologies for automatic provisioning of machines, to replace
-the existing system based on cfengine and a custom autoinstaller. Much of
+the existing system based on CFEngine and a custom autoinstaller. Much of
 our testing involved virtualization using Xen and VMware. Our eventual
 choice was a combination of Puppet and FAI.
 
@@ -65,7 +73,7 @@ While at Glu Mobile I installed and  maintained  over  twenty  internal  and
 external systems which provided numerous services.  My  main  duty  was  the
 administration of six Sun machines (3x280R, 3xv100)  running  Solaris  which
 acted as a provisioning system for mobile games using  Jboss  and  MySQL.  I
-also administered machines running other services such as mail,  DNS,  samba
+also administered machines running other services such as mail,  DNS,  Samba
 for internal  file  shares,  Checkpoint  FW-1/VPN-1,  HTTP  (both  barebones
 Apache/PHP  and  Jboss/Jetty  solutions)   and   DHCP.   I   installed   and
 administered a new backup system using Veritas NetBackup 4.5 and a  Sun  L8,
@@ -77,7 +85,7 @@ support.
 
 At Profero I was responsible for the administration of  several  Intel-based
 machines running FreeBSD, OpenBSD and Suse Linux.  These  machines  provided
-services such as mail, DNS and file sharing using  samba  and  appletalk.  I
+services such as mail, DNS and file sharing using  Samba  and  AppleTalk.  I
 also administered  the  machines  that  Profero's  ad  servers  ran  on.  In
 conjunction with this I set up and maintained a firewall  (StoneGate)  which
 provided load balancing and clustering.
