@@ -65,7 +65,7 @@ their new provider.
 ### January 2006 – December 2007: Senior Systems Administrator for Fotango
 
 At Fotango I was a member of a five-person team providing support for about
-200 RedHat and Debian machines in our production, staging, development and
+200 Red Hat and Debian machines in our production, staging, development and
 office environments.
 
 One of my first tasks was to design and install a rack for a new product,
