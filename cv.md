@@ -22,8 +22,11 @@
 
 ### October 2010 – Present: Systems Architect for [TagMan][]
 
-At TagMan I was responsible for maintaning and growing the platform serving approximately 2 Billion Hits a Month spread across 6 points of presence across the world. During my time at TagMan I worked in both the Operations Team and then a Development team focused on making our architecture more scalable.  
-I brought in the concept of Configuration Management with an initial install of Puppet this eventually evovled into the team using Chef for configuration management. 
+At TagMan I was responsible for maintaining and growing a platform serving approximately 2 billion hits a month
+spread over 6 points of presence across the world. During my time at TagMan I worked both in the Operations Team
+and in a development team focused on improving the scalability of our architecture.  
+I introduced the concept of configuration management with an initial install of Puppet, and later supported a
+switch to Chef by writing cookbooks and managing the contractor who did the bulk of the work.
 
 ### March 2008 – October 2010: Senior Systems Administrator for Ominor
 
