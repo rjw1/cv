@@ -15,6 +15,9 @@
 * Monitoring and Metrics: Nagios, Icinga, Graphite, Ganglia, Munin, StatsD, Diamond
 * Shell Scripting: bash
 * Packaging: deb, RPM, SRV4
+* Agile Methodologies: Kanban, Scrum, Continous Integration/Deployment
+* Databases: MySQL, PostgreSQL
+
 
 ## Employment History ##
 
