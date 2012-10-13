@@ -7,6 +7,14 @@
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
+## Skills ##
+
+* Operating Systems: Linux (Ubuntu, Debian, Red Hat), Solaris, FreeBSD, OpenBSD, OS/2
+* Configuration Management: Chef, Puppet, CFEngine2
+* Version Control: Git, SVN, CVS, RCS
+* Monitoring & Metrics: Nagios, Icinga, Graphite, Ganglia, Munin, Statsd, Diamond
+* Shell Scripting: Bash
+* Packaging: deb, RPM, SRV4
 
 ## Employment History ##
 
