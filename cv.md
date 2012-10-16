@@ -22,7 +22,7 @@
 
 ### October 2010 – Present: Systems Architect for [TagMan][]
 
-At TagMan I was responsible for maintaining and growing a platform serving approximately 2 billion hits a month spread over 6 points of presence across the world. During my time at TagMan I worked both in the Operations Team and in a development team focused on improving the scalability of our architecture.  
+At TagMan I was responsible for maintaining and growing a platform serving approximately two billion hits a month spread over six points of presence across the world. During my time at TagMan I worked both in the Operations Team and in a development team focused on improving the scalability of our architecture.  
 
 As part of the Operations Team, I introduced the concept of
 configuration management with an initial install of Puppet, and later
@@ -43,7 +43,7 @@ standards.
 
 ### March 2008 – October 2010: Senior Systems Administrator for Ominor
 
-At Ominor I set up and maintained 30+ servers for a range of e-commerce
+At Ominor I set up and maintained over 30 servers for a range of e-commerce
 websites developed in PHP and Ruby on Rails, spread across two data centres
 in several environments. One of my major tasks was to provision a new rack
 for a client with a turnover of approximately one million pounds a month. I
@@ -89,7 +89,7 @@ MySQL databases.
 
 ### August 2002 - December 2005: Senior Systems Administrator for [Glu Mobile][]
 
-While at Glu Mobile I installed and  maintained  over  twenty  internal  and
+While at Glu Mobile I installed and  maintained  over  20  internal  and
 external systems which provided numerous services.  My  main  duty  was  the
 administration of six Sun machines (3x280R, 3xv100)  running  Solaris  which
 acted as a provisioning system for mobile games using  Jboss  and  MySQL.  I
