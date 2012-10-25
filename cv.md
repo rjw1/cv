@@ -122,6 +122,17 @@ and JSP developer leading a team of two other  developers.  I  also  liaised
 with our outsourced Java developers, and  was  responsible  for  support  of
 desktops and servers running a combination of Linux, OS/2 and Windows.
 
+## Education ##
+
+### 1996-1999 - Imperial College London
+BSc in Physics
+
+### 1994-1996 - Godalming College
+A-Levels in Physics (B), Maths (B), Economics (B), Further Maths (D) and General Studies (A)
+
+### 1990-1994 - Broadwater Secondary School
+10 GCSEs (3 A*s, 3 As, 2 Bs, 2 Cs)
+
 [sciteb]: http://www.sciteb.com "Sciteb"
 [profero]: http://www.profero.com "Profero"
 [tagman]: http://eu.tagman.com "TagMan"
