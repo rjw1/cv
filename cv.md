@@ -22,6 +22,10 @@
 
 ### February 2013 – Present: WebOps for [Government Digital Service][]
 
+At GDS I was a member of the Infrastructure and Tools team within the GOV.UK team.
+
+Migration to new platform, Defining and working with rest of team to set up new logging infrastructure, Procurement of new CDN, Backlog management, running retrospectives, part of the oncall rota, bringing developers up to speed with how to do 2nd line support, maintaining puppet repos.
+
 ### October 2010 – February 2013: Systems Architect for [TagMan][]
 
 At TagMan I was responsible for maintaining and growing a platform serving approximately two billion hits a month spread over six points of presence across the world. During my time at TagMan I worked both in the Operations Team and in a development team focused on improving the scalability of our architecture.
