@@ -20,7 +20,7 @@
 
 ## Employment History ##
 
-### October 2010 – Present: Systems Architect for [TagMan][]
+### October 2010 – February 2013: Systems Architect for [TagMan][]
 
 At TagMan I was responsible for maintaining and growing a platform serving approximately two billion hits a month spread over six points of presence across the world. During my time at TagMan I worked both in the Operations Team and in a development team focused on improving the scalability of our architecture.
 
