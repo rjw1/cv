@@ -20,6 +20,8 @@
 
 ## Employment History ##
 
+### February 2013 – Present: WebOps for [Government Digital Service][]
+
 ### October 2010 – February 2013: Systems Architect for [TagMan][]
 
 At TagMan I was responsible for maintaining and growing a platform serving approximately two billion hits a month spread over six points of presence across the world. During my time at TagMan I worked both in the Operations Team and in a development team focused on improving the scalability of our architecture.
@@ -126,4 +128,4 @@ desktops and servers running a combination of Linux, OS/2 and Windows.
 [profero]: http://www.profero.com "Profero"
 [tagman]: http://eu.tagman.com "TagMan"
 [glu mobile]: http://www.glu.com "Glu Mobile"
-
+[government digital service]: https://www.gov.uk/government/policy-teams/government-digital-service "Government Digital Service"
