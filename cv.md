@@ -24,7 +24,19 @@
 
 At GDS I was a member of the Infrastructure and Tools team within the GOV.UK team.
 
-Migration to new platform, Defining and working with rest of team to set up new logging infrastructure, Procurement of new CDN, Backlog management, running retrospectives, part of the oncall rota, bringing developers up to speed with how to do 2nd line support, maintaining puppet repos.
+During my time at GDS I worked on several major projects including  migrating
+[GOV.UK](https://www.gov.uk) to a [new platform](https://gdstechnology.blog.gov.uk/2014/03/28/migrating-govuk-infrastructure/),
+leading technically on the setting up of a new logging infrastructure
+and helping with the procurement of a new CDN.
+
+I managed the team's backlog when we lacked a delivery manager. I facilated
+several retrospectives.
+
+I participated fully in our second line support model and out of hours on call rota
+I also trained several of our developers so that they could contribute to our
+second live support model.
+
+I also helped maintain several environments and puppet repositories.
 
 ### October 2010 – February 2013: Systems Architect for [TagMan][]
 
