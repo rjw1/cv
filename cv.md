@@ -9,7 +9,11 @@
 
 ## Employment History ##
 
-### February 2013 – Present: WebOps for [Government Digital Service][]
+### February 2016 - present: Head of Web Operations for [Government Digital Service][]
+
+### December 2014 - January 2016: Senior Web Operations Engineer for [Government Digital Service][]
+
+### February 2013 – November 2014: Web Operations Engineer for [Government Digital Service][]
 
 At GDS I was a member of the Infrastructure and Tools team within the GOV.UK team.
 
