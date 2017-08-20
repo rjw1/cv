@@ -7,17 +7,6 @@
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
-## Skills ##
-
-* Operating Systems: Linux (Ubuntu, Debian, Red Hat), Solaris, FreeBSD, OpenBSD, OS/2
-* Configuration Management: Chef, Puppet, CFEngine2
-* Version Control: Git, SVN, CVS, RCS
-* Monitoring and Metrics: Nagios, Icinga, Graphite, Ganglia, Munin, StatsD, Diamond
-* Shell Scripting: bash
-* Packaging: deb, RPM, SRV4
-* Agile Methodologies: Kanban, Scrum, Continous Integration/Deployment
-* Databases: MySQL, PostgreSQL
-
 ## Employment History ##
 
 ### February 2013 – Present: WebOps for [Government Digital Service][]
