@@ -7,11 +7,32 @@
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
+public speaking, runnig devopsdays london, humanops
+
+
 ## Employment History ##
 
 ### February 2016 - present: Head of Web Operations for [Government Digital Service][]
 
+working on GOV.UK providing guidance
+worked across other teams to see what they were doing
+responsible for line management and recrutiment in my community.
+helped run events
+community meetings
+speaking
+worked with DDAT peopel acrioss governemtn to define the Developeor and Web Ops career paths. and systems engineer
+
+
+
 ### December 2014 - January 2016: Senior Web Operations Engineer for [Government Digital Service][]
+
+acting head at some point 22/09/2015
+tech lead  feb 2015
+tecnical product owner FEB 2015 november 2016
+lead the move of gov.uk to a new provider.
+helped inital stages of the paas stuff
+disucssion about the future platform for GOV.UK
+september 2015 matt became teah lead.
 
 ### February 2013 – November 2014: Web Operations Engineer for [Government Digital Service][]
 
