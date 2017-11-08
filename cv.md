@@ -14,6 +14,12 @@ I can help infrastructue teams to define a product road map as a technical lead 
 
 I have been practicing DevOps before the term was coined and was an organizer of DevOpsDays London 2017. I have opinons on Continous Integration and Contionous Deployment of both applications and infrastructure. I also believe in HumanOps and have spoken several times about how on call should not be a burden to the people involved.
 
+### Talks
+
+* [What should wake you up at night? - London Devops 30](https://www.youtube.com/watch?v=MumyrGQMAJY)
+* [How GOV.UK does on call - HumanOps London May 2016](https://www.youtube.com/watch?v=XpGvssf3t50&feature=youtu.be)
+
+
 ## Employment History ##
 
 ### February 2016 - present: Head of Web Operations for [Government Digital Service][]
