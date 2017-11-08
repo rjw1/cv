@@ -8,6 +8,12 @@
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
+I am a Senior Operations Engineer with over 17 years experience who has worked in multiple environments using a wide range of Unixes (Linux, BSD and Solaris), Configuration managment tools (Puppet, Chef and CFengine2), platforms (AWS, vCloud and bare metal) and supporting applications in a variety of Languages (Ruby, Perl, Python, Java and Go).
+
+I can help infrastructue teams to define a product road map as a technical lead and a product owner.
+
+I have been practicing DevOps before the term was coined and was an organizer of DevOpsDays London 2017. I have opinons on Continous Integration and Contionous Deployment of both applications and infrastructure. I also believe in HumanOps and have spoken several times about how on call should not be a burden to the people involved.
+
 ## Employment History ##
 
 ### February 2016 - present: Head of Web Operations for [Government Digital Service][]
