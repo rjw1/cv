@@ -4,6 +4,7 @@
 * Date of birth: 22 October 1977
 * Nationality: British
 * E-mail: bob@randomness.org.uk
+* Twitter: [@rjw1](https://twitter.com/rjw1)
 * Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
