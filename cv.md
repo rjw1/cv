@@ -27,7 +27,7 @@ several retrospectives.
 
 I participated fully in our second line support model and out of hours on call rota
 I also trained several of our developers so that they could contribute to our
-second live support model.
+second line support model.
 
 I also helped maintain several environments and puppet repositories.
 
