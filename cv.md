@@ -5,18 +5,16 @@
 * Nationality: British
 * E-mail: bob@randomness.org.uk
 * Twitter: [@rjw1](https://twitter.com/rjw1)
-* Phone: 07810 542 241
+* Phone: 07810 542241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
-I am a Senior Operations Engineer with over 17 years experience who has worked in multiple environments using a wide range of Unixes (Linux, BSD and Solaris), Configuration managment tools (Puppet, Chef and CFengine2), platforms (AWS, vCloud and bare metal) and supporting applications in a variety of Languages (Ruby, Perl, Python, Java and Go).
+I am a senior operations engineer with over 17 years of experience in multiple environments using a wide range of Unixes (Linux, BSD and Solaris), configuration management tools (Puppet, Chef and CFengine2) and platforms (AWS, vCloud and bare metal) while supporting applications in a variety of languages (Ruby, Perl, Python, Java and Go). I can help infrastructure teams to define a product road map both as a technical lead and as a product owner.
 
-I can help infrastructue teams to define a product road map as a technical lead and a product owner.
-
-I have been practicing DevOps before the term was coined and was an organizer of DevOpsDays London 2017. I have opinons on Continous Integration and Contionous Deployment of both applications and infrastructure. I also believe in HumanOps and have spoken several times about how on call should not be a burden to the people involved.
+I have been practicing DevOps since before the term was coined, and was an organizer of DevOpsDays London 2017. I have opinions on continuous integration and continuous deployment of both applications and infrastructure. I also believe in HumanOps, and have spoken several times about how on call should not be a burden to the people involved.
 
 ### Talks
 
-* [What should wake you up at night? - London Devops 30](https://www.youtube.com/watch?v=MumyrGQMAJY)
+* [What should wake you up at night? - London Devops #30](https://www.youtube.com/watch?v=MumyrGQMAJY)
 * [How GOV.UK does on call - HumanOps London May 2016](https://www.youtube.com/watch?v=XpGvssf3t50&feature=youtu.be)
 
 
