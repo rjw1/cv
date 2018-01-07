@@ -22,7 +22,22 @@ I have been practicing DevOps since before the term was coined, and was an organ
 
 ### February 2016 - present: Head of Web Operations for [Government Digital Service][]
 
+As the Head of the Web Operations community at GDS I worked withe the other technical heads of community to look after our community members. I provided mentorship and line management to around 20 other Engineers and made sure they were learning and developing. I helped the community to self organise events and to share learnings between teams by empowering the community to do it themsleves.  I helped organise several off site events.
+I participated in the govertment wide DDaT effort to define a career path for people within the software engineerign community. 
+I was also the main point of contact for recruitment for Web Operations engineers within GDS. To share the burden of this I made created a rota of people to be main contact week to week.
+
+A decison was made to change how we managed platforms and I was part of the team to enanble this treansition to happen. my main role was as a liasion to my community andto help define the work the new central teams would do along with product managers and deleviery managers.
+
+While Head of Web Operations I also for a time was the product manager for the GOV.UK infrastructrue team and participated in the planning for all GOV.UK. I worked with the Government PaaS team to work out how we could migrate GOV.UK to the governemnt PaaS.
+
 ### December 2014 - January 2016: Senior Web Operations Engineer for [Government Digital Service][]
+
+
+As a Senior on the GOV.UK infra team I  continued to work on several large projects to migrate us to another hosting provider. I eventaully became the technical lead and product owner for the team helping to set our direction and make tecnical decisions. I also helped mentor our new staff members
+
+I was also made acting head of the web ops community at which point i reliqueshed my tech lead post but contiued to manahge the product. 
+
+I worked with the GOV.UK technical architects and Senior Developers to define the technical direction of GOV.UK.
 
 ### February 2013 – November 2014: Web Operations Engineer for [Government Digital Service][]
 
