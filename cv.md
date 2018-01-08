@@ -4,39 +4,41 @@
 * Date of birth: 22 October 1977
 * Nationality: British
 * E-mail: bob@randomness.org.uk
-* Phone: 07810 542 241
+* Twitter: [@rjw1](https://twitter.com/rjw1)
+* Phone: 07810 542241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
-## Skills ##
+I am a senior operations engineer with over 17 years of experience in multiple environments using a wide range of Unixes (Linux, BSD and Solaris), configuration management tools (Puppet, Chef and CFengine2) and platforms (AWS, vCloud and bare metal) while supporting applications in a variety of languages (Ruby, Perl, Python, Java and Go). I can help infrastructure teams to define a product road map both as a technical lead and as a product owner.
 
-* Operating Systems: Linux (Ubuntu, Debian, Red Hat), Solaris, FreeBSD, OpenBSD, OS/2
-* Configuration Management: Chef, Puppet, CFEngine2
-* Version Control: Git, SVN, CVS, RCS
-* Monitoring and Metrics: Nagios, Icinga, Graphite, Ganglia, Munin, StatsD, Diamond
-* Shell Scripting: bash
-* Packaging: deb, RPM, SRV4
-* Agile Methodologies: Kanban, Scrum, Continous Integration/Deployment
-* Databases: MySQL, PostgreSQL
+I have been practicing DevOps since before the term was coined, and was an organizer of DevOpsDays London 2017. I have opinions on continuous integration and continuous deployment of both applications and infrastructure. I also believe in HumanOps, and have spoken several times about how on call should not be a burden to the people involved.
+
+### Talks
+
+* [What should wake you up at night? - London Devops #30](https://www.youtube.com/watch?v=MumyrGQMAJY)
+* [How GOV.UK does on call - HumanOps London May 2016](https://www.youtube.com/watch?v=XpGvssf3t50&feature=youtu.be)
+
 
 ## Employment History ##
 
-### February 2013 – Present: WebOps for [Government Digital Service][]
+### February 2016 – present: Head of Web Operations for [Government Digital Service][]
 
-At GDS I was a member of the Infrastructure and Tools team within the GOV.UK team.
+As head of the Web Operations community at GDS, I worked with the other technical heads of community to look after our community members. I provided mentorship and line management to around 20 other engineers, and made sure they were learning and developing. I empowered the community to self-organise events and to share learnings between teams, and I also helped organise several off-site events.
 
-During my time at GDS I worked on several major projects including  migrating
-[GOV.UK](https://www.gov.uk) to a [new platform](https://gdstechnology.blog.gov.uk/2014/03/28/migrating-govuk-infrastructure/),
-leading technically on the setting up of a new logging infrastructure
-and helping with the procurement of a new CDN.
+I participated in the government-wide Digital, Data and Technology (DDaT) effort to define a career path for people within the software engineering community. My position as the main point of contact for recruitment of Web Operations engineers within GDS helped me realise that this was a burden that needed to be shared, and so I created a rota of people to be main contact week-to-week.
 
-I managed the team's backlog when we lacked a delivery manager. I facilated
-several retrospectives.
+After a decison was made to change how we managed platforms, I was part of the team which enabled this transition. My main roles were liaising with my community and helping to define the work that the new central teams would do along with the existing product managers and delivery managers.
 
-I participated fully in our second line support model and out of hours on call rota
-I also trained several of our developers so that they could contribute to our
-second live support model.
+While Head of Web Operations, for a time I was also the product manager for the GOV.UK infrastructure team and participated in the planning for the whole of GOV.UK. I worked with the Government PaaS team on planning the migration of GOV.UK to the governemnt PaaS.
 
-I also helped maintain several environments and puppet repositories.
+### December 2014 – January 2016: Senior Web Operations Engineer for [Government Digital Service][]
+
+As a senior engineer on the GOV.UK infrastructure team, I worked with technical architects and senior developers to define the technical direction of GOV.UK. I continued to work on several large projects which provided the foundation for migrating us to a different hosting provider. I eventually became the technical lead and product owner for the team, helping to set our direction and make technical decisions. I also helped to mentor our new staff members.
+
+During this period, I was made Acting Head of Web Operations, at which point I relinquished my tech lead post but continued to manage the product. 
+
+### February 2013 – November 2014: Web Operations Engineer for [Government Digital Service][]
+
+I joined GDS as a member of the Infrastructure and Tools team within GOV.UK. I worked on several major projects including migrating [GOV.UK](https://www.gov.uk) to a [new platform](https://gdstechnology.blog.gov.uk/2014/03/28/migrating-govuk-infrastructure/), leading technically on the setting up of a new logging infrastructure and helping with the procurement of a new CDN. I managed the team's backlog when we lacked a delivery manager, and facilitated several retrospectives. I participated fully in our second line support model and out of hours on call rota, and trained several of our developers so that they could contribute to second line support. I also helped maintain several environments and Puppet repositories.
 
 ### October 2010 – February 2013: Systems Architect for [TagMan][]
 
