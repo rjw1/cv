@@ -3,7 +3,7 @@
 * Nationality: British
 * E-mail: bob@randomness.org.uk
 * Twitter: [@rjw1](https://twitter.com/rjw1)
-* Phone: 07810 542241
+* Phone: 07810 542 241
 * Address: 19 Clarendon Road, Croydon, CR0 3SJ
 
 I am a senior operations engineer with over 17 years of experience in multiple environments using a wide range of Unixes (Linux, BSD and Solaris), configuration management tools (Puppet, Chef and CFengine2) and platforms (AWS, vCloud and bare metal) while supporting applications in a variety of languages (Ruby, Perl, Python, Java and Go). I can help infrastructure teams to define a product road map both as a technical lead and as a product owner.
