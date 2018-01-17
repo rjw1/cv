@@ -1,5 +1,3 @@
-## Details ##
-
 * Full name: Robert Walker
 * Date of birth: 22 October 1977
 * Nationality: British
