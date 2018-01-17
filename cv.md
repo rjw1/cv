@@ -24,9 +24,9 @@ As head of the Web Operations community at GDS, I worked with the other technica
 
 I participated in the government-wide Digital, Data and Technology (DDaT) effort to define a career path for people within the software engineering community. My position as the main point of contact for recruitment of Web Operations engineers within GDS helped me realise that this was a burden that needed to be shared, and so I created a rota of people to be main contact week-to-week.
 
-After a decison was made to change how we managed platforms, I was part of the team which enabled this transition. My main roles were liaising with my community and helping to define the work that the new central teams would do along with the existing product managers and delivery managers.
+After a decision was made to change how we managed platforms, I was part of the team which enabled this transition. My main roles were liaising with my community and helping to define the work that the new central teams would do along with the existing product managers and delivery managers.
 
-While Head of Web Operations, for a time I was also the product manager for the GOV.UK infrastructure team and participated in the planning for the whole of GOV.UK. I worked with the Government PaaS team on planning the migration of GOV.UK to the governemnt PaaS.
+While Head of Web Operations, for a time I was also the product manager for the GOV.UK infrastructure team and participated in the planning for the whole of GOV.UK. I worked with the Government PaaS team on planning the migration of GOV.UK to the government PaaS.
 
 ### December 2014 – January 2016: Senior Web Operations Engineer for [Government Digital Service][]
 
